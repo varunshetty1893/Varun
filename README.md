@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun Shetty B</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" width="350px" alt="Coder" src="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif">
+
 
 - 🔭 I’m currently working on *Student result management system web project*
 
